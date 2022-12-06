@@ -1,16 +1,22 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "hexo-theme-inside",
+  "version": "2.7.0",
+  "description": "❤️ SPA, flat and clean theme for Hexo.",
   "private": true,
   "scripts": {
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "netlify": "npm run clean && npm run build"
+    "netlify": "npm run clean && npm run build",
+    "test": "jasmine --config=test/jasmine.json"
   },
   "hexo": {
     "version": "6.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikeq/hexo-theme-inside.git"
   },
   "dependencies": {
     "hexo": "^6.3.0",

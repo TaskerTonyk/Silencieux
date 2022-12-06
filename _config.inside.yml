@@ -3,18 +3,18 @@
 # ---------------------------------------------------------------
 
 # Appearance
-appearance:
-  # Accent color, default '#2a2b33'
-  accent_color:
-  # Font color, default '#363636'
-  foreground_color:
-  # Border color, default '#e0e0e0'
-  border_color:
-  # body background, default '#f5f7fa'
+appearance: #强调文字颜色
+   #Accent color, default '#2a2b33'
+  accent_color: #重点颜色
+   #Font color, default '#363636'
+  foreground_color: #突出颜色
+   #Border color, default '#e0e0e0'
+  border_color: #边框颜色
+   #body background, default '#f5f7fa'
   background:
-  # Sidebar background (when opened), default to accent_color
+   #Sidebar background (when opened), default to accent_color
   sidebar_background:
-  # Card background, default '#fff'
+   #Card background, default '#fff'
   card_background:
 
   # All background settings above support image, e.g.,
@@ -100,19 +100,19 @@ appearance:
 profile:
   # `email` is used for gravatar(https://en.gravatar.com),
   # fallback to `hexo.config.email` if not specified
-  email:
+  email: silencieux@tuta.io
 
   # You can set Avatar URL directly
   # avatar:
 
-  bio: Awesome guy.
+  bio: 年月长未懂可放不可收
 
 # Sidebar navigation links
 menu:
   Home: /
   # About: /about
   # Links: /links
-  # Github: https://github.com/username
+   Github: https://github.com/TaskerTonyk
 
 # Social media URL
 sns:
@@ -121,7 +121,7 @@ sns:
   # `youtube`, `hangouts`, `linkedin`, `pinterest`, `soundcloud`, `myspace`, `weibo`, `qq
   - icon: email
     title: Email
-    url: # default to `profile.email`
+    url:  # default to `profile.email`
   - icon: feed
     title: Feed
     url: # default to `hexo.config.feed.path`
@@ -164,10 +164,10 @@ page:
   # reward: true
 
   # Display copyright notice, default to `false`
-  # copyright: true
+   copyright: true
 
 
-# Post
+# Post 暂时会出问题
 post:
   # per_page: 10
   # reading_time: false
@@ -182,7 +182,7 @@ post:
 
 # Archive
 archive:
-  # per_page: 10
+   per_page: 10
 
 # Tag
 tag:
@@ -192,7 +192,7 @@ tag:
 category:
   # per_page: 10
 
-# Search
+# Search 暂时会出问题
 search:
   # Display a quick search button in fab
   # fab: true
