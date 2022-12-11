@@ -446,7 +446,7 @@ post_meta:
 
 # notice pin board
 notice:
-  enable: true
+  enable: false
   content: 要更喜欢自己一点，才会更可爱一点
 
 # third party
