@@ -1,6 +1,6 @@
 # ---------------
 # mode: light | dark | auto | time
-mode: auto
+mode: time
 
 # Theme color for customize
 # Notice: color value must in double quotes: "#000000"
@@ -17,7 +17,7 @@ colors:
 
 # Favicon
 # ---------------
-favicon: /yun.svg
+favicon: /ico/icons8-罗盘.gif
 
 # ---------------------------------------------------------------
 # Sidebar Settings
@@ -25,8 +25,8 @@ favicon: /yun.svg
 
 # Posts / Categories / Tags in sidebar.
 sidebar:
-  bg_image: https://cdn.yunyoujun.cn/img/bg/alpha-stars-timing-1.webp
-  # dark_bg_image: https://cdn.yunyoujun.cn/img/bg/dark-alpha-stars-timing-1.webp
+  bg_image: https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/img/backgrond/asika.jpg
+  #dark_bg_image: https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/img/backgrond/ayanami.jpg
   bg_position: bottom 1rem center
   tagcloud:
     enable: false
@@ -36,7 +36,7 @@ toc:
   list_number: true
   max_depth: 6
   min_depth: 1
-  # placeholder: 很遗憾，咱没写啥目录
+  laceholder: 很遗憾，咱没写啥目录
   collapse: true
 
 # Social Links.
@@ -102,10 +102,10 @@ codeblock:
 
 # Extra links
 pages:
-  - name: 我的小伙伴们
-    url: /links/
-    icon: ri:genderless-line
-    color: dodgerblue
+  #- name: 我的小伙伴们
+  #  url: /links/
+  #  icon: ri:genderless-line
+  #  color: dodgerblue
 
 # pages
 # -------
@@ -113,7 +113,7 @@ pages:
 anonymous_image: https://cdn.yunyoujun.cn/img/avatar/none.jpg
 
 albums:
-  enable: false
+  enable: true
   icon: ri:gallery-line
 
 girls:
@@ -127,9 +127,9 @@ avatar:
   rounded: true
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.
   opacity: 1
-  mickey_mouse: false
+  mickey_mouse: true
   status:
-    enable: false
+    enable: true
     emoji: 😊
     message: 年月长未懂可放不可收
 
@@ -158,23 +158,12 @@ archive:
   last_word: 没有更多的黑历史了_(:з」∠)_
 
 wordcloud:
-  enable: false
+  enable: true
   height: 350
 
 # You can set color for every tag or category.
 tags:
-  Vue: "#4fc08d"
-  Hexo: "#0E83CD"
-  CSS: "#5298d1"
-  Node.js: "#026E00"
-  Git: "#F14E32"
-  React: "#61dafb"
-  Python: "#3776ab"
-  PHP: "#8892BF"
-  VS Code: "#0066B8"
-  JavaScript: "#F4DF4F"
-  TypeScript: "#317AC6"
-  Laravel: "#F4645F"
+  随笔: dimgray
 
 categories:
   笔记: dimgray
@@ -262,8 +251,8 @@ head:
 
 # cdn for third-party library (always include)
 cdn:
-  pre: ""
-  # pre: https://cdn.jsdelivr.net/gh/YunYouJun/yunyoujun.github.io
+  pre: "" #https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn
+  # pre: https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn
   css:
     yun-markdown-css: "yun_markdown_css"
     prism-theme-vars: "prism_theme_vars"
@@ -343,10 +332,12 @@ scrollreveal:
 
 bg_image:
   enable: true
-  url: https://cdn.yunyoujun.cn/img/bg/stars-timing-0-blur-30px.jpg # recomend image related to your mode
-  dark: https://cdn.yunyoujun.cn/img/bg/galaxy.jpg
+  url: /images/beach.jpg # recomend image related to your mode
+       #https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/img/backgrond/beach.jpg
+  dark: /images/andkiss.jpg
+      #https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/img/backgrond/andkiss.jpg
   # blur: 30px
-  opacity: 1
+  opacity: 0.7
 
 # Reward (Donate)
 # If enable true, reward would be displayed in every posts and pages by default.
@@ -429,10 +420,10 @@ footer:
       id: #XXXXXXXX
 
   live_time:
-    enable: false
+    enable: true
     prefix: 本博客已运行
     suffix: (●'◡'●)
-    start_time: "20122-12-6T12:23:00"
+    start_time: "2022-12-06T12:23:00"
 
   # Display support
   # support:
@@ -455,8 +446,8 @@ post_meta:
 
 # notice pin board
 notice:
-  enable: false
-  content: 蓬门今始为君开
+  enable: true
+  content: 要更喜欢自己一点，才会更可爱一点
 
 # third party
 # ----------------
@@ -471,7 +462,8 @@ say:
   enable: true
   # api: https://say.elpsy.cn/sentences.json
   # /data/sentences.json
-  api: https://el-bot-api.vercel.app/api/words/young
+  api: /data/sentences.json
+  #https://el-bot-api.vercel.app/api/words/young
   # https://developer.hitokoto.cn/sentence/
   hitokoto:
     enable: false
