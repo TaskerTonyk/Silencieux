@@ -334,7 +334,7 @@ bg_image:
   enable: true
   url: /images/beach.jpg # recomend image related to your mode
        #https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/img/backgrond/beach.jpg
-  dark: /images/andkiss.jpg
+  dark: /images/五人.jpg
       #https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/img/backgrond/andkiss.jpg
   # blur: 30px
   opacity: 0.7
