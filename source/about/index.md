@@ -4,7 +4,7 @@ date: 2022-12-12 13:20
 type: "about"
 updated: 2022-12-12 13:20
 aplayer: true
-reward: true
+reward: false
 icon: icon-cloud-line
 iconify: true
 ---
