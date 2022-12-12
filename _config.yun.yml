@@ -141,12 +141,15 @@ menu:
     icon: ri:home-4-line
   list:
     - type: archives
+      title: 存档
       path: /archives/
       icon: ri:archive-line
     - type: categories
+      title: 分类
       path: /categories/
       icon: ri:folder-2-line
     - type: tags
+      title: 标签
       path: /tags/
       icon: ri:price-tag-3-line
   custom:
