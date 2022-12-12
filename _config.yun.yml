@@ -462,7 +462,7 @@ say:
   enable: true
   # api: https://say.elpsy.cn/sentences.json
   # /data/sentences.json
-  api: /data/sentences.json
+  api: https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/Say/sentences.json
   #https://el-bot-api.vercel.app/api/words/young
   # https://developer.hitokoto.cn/sentence/
   hitokoto:
