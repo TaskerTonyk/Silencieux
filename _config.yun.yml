@@ -139,18 +139,18 @@ menu:
     path: /
     icon: ri:home-4-line
   list:
-    - type: archives
+    - type: 档案
       path: /archives/
       icon: ri:archive-line
-    - type: categories
+    - type: 分类
       path: /categories/
       icon: ri:folder-2-line
-    - type: tags
+    - type: 标签
       path: /tags/
       icon: ri:price-tag-3-line
   custom:
-    title: 文档
-    path: #https://yun.yunyoujun.cn
+    title: 源码
+    path: https://github.com/TaskerTonyk/Silencieux
     icon: ri:settings-line
 
 # archive
