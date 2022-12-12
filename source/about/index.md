@@ -17,16 +17,15 @@ iconify: true
 </meting-js>
 
 > ## Me
->
-> C'est la vie.
+> _C'est la vie._
  
 >EVA厨, 传统文化的爱好者, 特殊XP集大成者.
 >
-> 嵌入式及单片机的新入坑小白, 自命不凡的SomeBody, 
+> 嵌入式及单片机的新入坑小白, 自命不凡的SomeBody
 
 <div class="text-center">
   <div class="site-author-avatar">
-    <img src="https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/about/真嗣.jpg" alt="portrait" title="ID : 云游君">
+    <img src="https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/about/真嗣.jpg" alt="portrait" title="ID : 钰椿">
   </div>
 </div>
 
