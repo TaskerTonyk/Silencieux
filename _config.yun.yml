@@ -343,9 +343,9 @@ bg_image:
 # If enable true, reward would be displayed in every posts and pages by default.
 # You can show or hide reward in a specific page throuth `reward: true | false` in Front Matter.
 reward:
-  enable: true
+  enable: false
   icon: ri:hand-coin-line
-  comment: I'm so cute. Please give me money.
+  comment: 一些可能会存在的乞讨渠道
   # url: https://github.com/YunYouJun/yunyoujun.github.io/issues/96
   methods:
   # - name: 支付宝
