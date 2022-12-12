@@ -135,7 +135,7 @@ avatar:
 
 # main menu navigation
 menu:
-  home:
+  home: 主页
     path: /
     icon: ri:home-4-line
   list:
