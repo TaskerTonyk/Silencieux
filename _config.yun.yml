@@ -108,7 +108,7 @@ pages:
   #  color: dodgerblue
   - name: 相册
     url: /album/
-    icon: dashicons:format-image
+    icon: ri:gallery-line
     color: dodgerblue
 
 # pages
