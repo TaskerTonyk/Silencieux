@@ -106,11 +106,15 @@ pages:
   #  url: /links/
   #  icon: ri:genderless-line
   #  color: dodgerblue
+  - name: 相册
+    url: /album/
+    icon: dashicons:format-image
+    color: dodgerblue
 
 # pages
 # -------
 # friend
-anonymous_image: https://cdn.yunyoujun.cn/img/avatar/none.jpg
+anonymous_image: #https://cdn.yunyoujun.cn/img/avatar/none.jpg
 
 albums:
   enable: true

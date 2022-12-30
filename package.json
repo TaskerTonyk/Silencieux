@@ -19,6 +19,7 @@
     "url": "git+https://github.com/ikeq/hexo-theme-inside.git"
   },
   "dependencies": {
+    "crypto-js": "^4.1.1",
     "hexo": "^6.3.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
