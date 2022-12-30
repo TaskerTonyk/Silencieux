@@ -107,7 +107,7 @@ pages:
   #  icon: ri:genderless-line
   #  color: dodgerblue
   - name: 相册
-    url: /myalbums/
+    url: /albums/
     icon: ri:gallery-line
     color: dodgerblue
 
