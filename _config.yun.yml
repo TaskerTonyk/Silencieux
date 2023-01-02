@@ -63,10 +63,10 @@ social:
 #   link: https://music.163.com/#/user/home?id=247102977
 #   icon: ri:netease-cloud-music-line
 #   color: "#C20C0C"
- - name: 知乎
-   link: https://www.zhihu.com/people/tasker-1
-   icon: ri:zhihu-line
-   color: "#0084FF"
+# - name: 知乎
+#   link: https://www.zhihu.com/people/tasker-1
+#   icon: ri:zhihu-line
+#   color: "#0084FF"
  - name: 哔哩哔哩
    link: https://space.bilibili.com/237724348
    icon: ri:bilibili-line
