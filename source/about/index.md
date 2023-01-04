@@ -25,7 +25,7 @@ iconify: true
 
 <div class="text-center">
   <div class="site-author-avatar">
-    <img src="https://cdn.jsdelivr.net/gh/TaskerTonyk/cdn/about/真嗣.jpg" alt="portrait" title="ID : 钰椿">
+    <img src="https://i.hd-r.cn/e761c19f9f098db9cd05df55ae322a84.png" alt="portrait" title="ID : 钰椿">
   </div>
 </div>
 
