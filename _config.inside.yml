@@ -138,7 +138,7 @@ sns:
 # Sidebar footer copyright info
 footer:
   # Set to false to hide.
-  copyright: '&copy; 2022 • <a href="">John Doe</a>'
+  copyright: '&copy; 2022 • <a href="">Le point de départ de tout</a>'
 
   # Set to false to hide Hexo link.
   powered: true
