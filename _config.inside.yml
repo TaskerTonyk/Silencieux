@@ -59,28 +59,28 @@ appearance:
   highlight:
 
   # Default Light by Chris Kempson (http://chriskempson.com)
-  # highlight: [
-  #   '#f8f8f8', '#e8e8e8', '#d8d8d8', '#b8b8b8',
-  #   '#585858', '#383838', '#282828', '#181818',
-  #   '#ab4642', '#dc9656', '#f7ca88', '#a1b56c',
-  #   '#86c1b9', '#7cafc2', '#ba8baf', '#a16946'
-  # ]
+   highlight: [
+     '#f8f8f8', '#e8e8e8', '#d8d8d8', '#b8b8b8',
+     '#585858', '#383838', '#282828', '#181818',
+     '#ab4642', '#dc9656', '#f7ca88', '#a1b56c',
+     '#86c1b9', '#7cafc2', '#ba8baf', '#a16946'
+   ]
 
   # Harmonic16 Light by Jannik Siebert (https://github.com/janniks)
-  # highlight: [
-  #   '#f7f9fb', '#e5ebf1', '#cbd6e2', '#aabcce',
-  #   '#627e99', '#405c79', '#223b54', '#0b1c2c',
-  #   '#bf8b56', '#bfbf56', '#8bbf56', '#56bf8b',
-  #   '#568bbf', '#8b56bf', '#bf568b', '#bf5656'
-  # ]
+   #highlight: [
+    # '#f7f9fb', '#e5ebf1', '#cbd6e2', '#aabcce',
+    # '#627e99', '#405c79', '#223b54', '#0b1c2c',
+    # '#bf8b56', '#bfbf56', '#8bbf56', '#56bf8b',
+    # '#568bbf', '#8b56bf', '#bf568b', '#bf5656'
+   #]
 
   # Tomorrow Night by Chris Kempson (http://chriskempson.com)
-  # highlight: [
-  #   '#1d1f21', '#282a2e', '#373b41', '#969896',
-  #   '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
-  #   '#cc6666', '#de935f', '#f0c674', '#b5bd68',
-  #   '#8abeb7', '#81a2be', '#b294bb', '#a3685a'
-  # ]
+   #highlight: [
+   #  '#1d1f21', '#282a2e', '#373b41', '#969896',
+   #  '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
+   #  '#cc6666', '#de935f', '#f0c674', '#b5bd68',
+   #  '#8abeb7', '#81a2be', '#b294bb', '#a3685a'
+   #]
 
   darkmode:
     accent_color: '#539bf5'
@@ -103,7 +103,7 @@ profile:
   #email:
 
   # You can set Avatar URL directly
-  avatar: /images/凌波丽.jpg
+  avatar: /images/水水.jpg
 
   bio: 年月长未懂可放不可收
 
@@ -111,7 +111,7 @@ profile:
 menu:
   Home: /
   About: /about
-  # Links: /links
+  Links: /links
   Github: https://github.com/TaskerTonyk
 
 # Social media URL
@@ -395,20 +395,20 @@ plugins:
   # - cipher:
   #     placeholder: Passcode is required
   #     excerpt: Content encrypted
-  # - palette:
-  #     col: 5
-  #     theme: [
-  #       '#673ab7',
-  #       '#3f51b5',
-  #       '#2196f3',
-  #       '#009688',
-  #       '#4caf50',
-  #       '#ff9800',
-  #       '#ff5722',
-  #       '#795548',
-  #       '#607D8B',
-  #       '#2a2b33'
-  #     ]
+   - palette:
+       col: 5
+       theme: [
+         '#673ab7',
+         '#3f51b5',
+         '#2196f3',
+         '#009688',
+         '#4caf50',
+         '#ff9800',
+         '#ff5722',
+         '#795548',
+         '#607D8B',
+         '#2a2b33'
+       ]
 
   # Global Inject script/style
   # By default script will be injected into <body>, and style will be injected into <head>
