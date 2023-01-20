@@ -284,9 +284,9 @@ copyright:
   # Display link, default to `true`
   # link: false
 
-  # license: Attribution-NonCommercial-NoDerivatives 4.0 International
-  #   (<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"
-  #   rel=\"external nofollow\" target=\"_blank\">CC BY-NC-ND 4.0</a>)
+  license: 自由转载，禁止商用
+    (<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"
+    rel=\"external nofollow\" target=\"_blank\">CC BY-NC-ND 4.0</a>)
 
   # Display published date, default to `false`
   # published: false
@@ -295,7 +295,7 @@ copyright:
   # updated: false
 
   # Custom text, override above settings
-  # custom: my copyright
+  custom: 如有文章相关提问，可通过邮箱联系.
 
 # Comments
 # Built-in support Disqus (https://disqus.com) and LiveRe (https://livere.com),
