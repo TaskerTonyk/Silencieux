@@ -111,7 +111,7 @@ profile:
 menu:
   Home: /
   About: /about
-  Links: /links/inside.md
+  Links: /links/inside
   Github: https://github.com/TaskerTonyk
 
 # Social media URL
