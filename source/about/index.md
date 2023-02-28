@@ -25,7 +25,7 @@ iconify: true
 
 <div class="text-center">
   <div class="site-author-avatar">
-    <img src="https://postimg.cc/JGtdqbjS" alt="portrait" title="ID : 钰椿">
+    <img src="https://i.postimg.cc/fTvnMCyW/Bg-Sub-clipboard.png" alt="portrait" title="ID : 钰椿">
   </div>
 </div>
 
