@@ -325,7 +325,8 @@ data_prefix:
 data_dir:
 
 # Favicon, default to `favicon.ico`
-favicon: images/favicon.ico
+favicon: images/favicon_li.ico
+  #using https://www.bitbug.net/
 
 # Google analytics
 # ga: UA-00000000-0
